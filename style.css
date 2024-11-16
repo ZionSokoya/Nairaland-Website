@@ -1,0 +1,67 @@
+* { 
+ margin: 0; 
+ padding: 0; 
+ box-sizing: border-box; 
+	} 
+section{margin-left:200px;
+		margin-right:200px;
+	}
+.Nairaland1{
+	text-align:center;
+	background-color:#f6f6ec;
+	border-radius:20px;
+	height:110px;
+	}
+.Nigerian{ 
+	
+	border-radius:100px;
+	margin-top:10px;
+}
+.Nairaland2 {
+	text-align:center;
+	background-color:#f6f6ec;
+	}
+a	{
+	text-decoration:none;
+	color:rgb(22,22,105);
+	}
+
+a:hover{
+	text-decoration:underline;
+}
+img{
+	border-radius:30px;
+	padding:10px;
+	}
+.LatestNews{
+	text-align:center;
+	border-radius:10px;
+	border:1px solid #dadce0;
+	margin:auto
+			}
+.Members{
+	text-align:center;
+	padding:2px;
+	background-color:#f6f6ec;
+	border-radius:10px;
+	margin-bottom:10px;
+		}
+.hlist{
+	border:1px solid rgb(128,128,128);
+	height:0px;
+	opacity:0.25;
+	width:500px;
+	width:600px;
+	margin:auto;	
+
+	
+}
+footer{
+	    text-align:center;
+		border:5px solid #f6f6ec;
+		border-radius:30px;
+		background-color:#f6f6ec;
+		font-size:10px;
+		font-family:Serif Sans;
+	  }
+	
