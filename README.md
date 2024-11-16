@@ -1,3 +1,4 @@
 # Nairaland-Website
 Hi there!
-The aim of this project was to test my knowledge on HTML and CSS codes and stylying methods alone.
+This project aimed to test my knowledge of HTML and CSS codes and styling methods alone.
+I tried to mirror the original Nairaland website on this.
